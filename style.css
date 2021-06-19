@@ -1,0 +1,51 @@
+html {
+    color: rgb(60, 85, 100);
+    font-family: Hevletica, sans-serif;
+    background-color: rgb(33, 38, 43)
+}
+
+#htmlcheatsheet { 
+    margin: auto;
+    margin-bottom: 80px;
+    width: 50%;
+}
+
+#csscheatsheet {
+    margin: auto;
+    margin-bottom: 80px;
+    width: 50%;
+}
+
+h2 {
+    color: rgb(60, 85, 100);
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.tabletop {
+    font-weight: 800;
+    line-height: 40px;
+}
+
+.command {
+    font-family: monospace;
+    background-color: rgba(0, 0, 0, 0.25)
+}
+
+.description {
+    text-align: left;
+}
+
+table {
+    color: rgb(114, 137, 165);
+    border-style: solid;
+    border-width: medium;
+    border-color: rgba(46, 139, 87, 0.75);
+}
+
+td,
+th {
+    text-align: center;
+    line-height: 26px;
+    border: solid 1px rgba(46, 139, 86, 0.123);
+}
